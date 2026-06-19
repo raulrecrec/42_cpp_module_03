@@ -158,16 +158,6 @@ make
 
 ---
 
-### ex03 - Now it’s weird!
-
-This exercise introduces multiple inheritance with `DiamondTrap`.
-
-It combines both `ScavTrap` and `FragTrap`, which creates the classic diamond inheritance problem.
-
-This exercise was not implemented in this version because it is optional for passing the module, and the focus was placed on completing and understanding `ex00`, `ex01` and `ex02` properly.
-
----
-
 ## Build rules
 
 Each exercise contains its own `Makefile`.
